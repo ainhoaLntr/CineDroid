@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CineDroid</string>
+    <string name="titre_page_1">Séances de la journée</string>
+    <string name="séance_de">Séance de</string>
+    <string name="nb_places">Nombre de places</string>
+    <string name="tarif">Tarif</string>
+    <string name="normal">Normal 9.60€</string>
+    <string name="etudiant"> Etudiant 7€</string>
+    <string name="jeune">Jeune 5€</string>
+    <string name="reserver">Reserver</string>
+    <string name="cout_total">Coût total : </string>
+    <string name="res_ok">Réservation effectuée</string>
+    <string name="plus">+</string>
+    <string name="moins">-</string>
+    <string name="nomdufilm">NomDuFilm</string>
+
+    <string-array name="num_places">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+</resources>
